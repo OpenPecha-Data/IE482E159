@@ -1,0 +1,23 @@
+id: IE482E159
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T17:25:24.512452'
+last_modified: '2022-05-27T17:25:24.512465'
+parser: null
+source_metadata:
+  title: 'MSV 1,17: Saṃghabhedavastu'
+  language: bo
+  base:
+    f8B5B:
+      title: Saṃghabhedavastu
+      base_file: f8B5B.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
